@@ -64,6 +64,7 @@ public class SecurityConfig {
         	    "http://localhost:5500",
         	    "http://localhost:3000",
         	    "https://shopnest-suk-643b08.netlify.app/",
+        	    "https://jocular-wisp-b02f5b.netlify.app",
         	    "*"
         	));
         configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"));
